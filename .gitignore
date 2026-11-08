@@ -1,0 +1,8 @@
+node_modules/
+settings.json
+.env
+.env.*
+web/uploads/
+web/backgrounds/
+*.log
+.DS_Store

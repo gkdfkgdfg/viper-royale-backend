@@ -1,0 +1,15 @@
+{
+  "name": "viper-royale-backend",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Node.js WebSocket backend and local demo arena server for Viper Royale",
+  "main": "server.cjs",
+  "scripts": {
+    "start": "node server.cjs",
+    "check": "node --check server.cjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
